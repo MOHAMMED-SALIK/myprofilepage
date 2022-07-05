@@ -1,0 +1,177 @@
+BODY{
+    background-color: aqua;
+}
+#NAME{
+    color: aqua;
+    padding-top: 20PX;
+    padding-LEFT: 40PX;
+}
+#IMG1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98ozzNED2rAGFMZh-2stS4ISRLzHy3YXhrg&usqp=CAU);
+}
+#HOME{
+    list-style: none;
+}
+.LINK{
+    padding: 20PX;
+    text-decoration: none;
+    color: aliceblue;
+}
+BUTTON{
+    background-color: RED;
+    border-color: green;
+}
+#ABOUT{
+    text-align: center;
+    padding: 10PX;
+    border: 2PX SOLID RED;
+    width: 100PX;
+   position: relative;
+   left: 600PX;
+   background-color: green;
+
+}
+#ABT{
+    background-color: violet;
+}
+#PROFILEPIC{
+    width: 400PX;
+    height: 400PX;
+    border-radius: 50%;
+}
+#IMG2
+{
+    width: 50PX;
+    height: 50PX;
+    position: RELATIVE;
+    TOP:-350PX;
+    LEFT:-200PX;
+}
+#NAME{
+    position: RELATIVE;
+    TOP:-420PX;
+    LEFT:-70PX;
+    text-align: center;
+    color: BLACK;
+}
+#IMG3
+{
+    width: 50PX;
+    height: 50PX;
+    position: RELATIVE;
+    TOP:-370PX;
+    LEFT:-200PX;  
+}
+#PHONE{
+    position: RELATIVE;
+    TOP:-440PX;
+    LEFT:-70PX;
+    text-align: center;
+    color: BLACK;
+}
+#IMG4
+{
+    width: 50PX;
+    height: 50PX;
+    position: RELATIVE;
+    TOP:-390PX;
+    LEFT:-200PX;
+}
+#BIRTH{
+    position: RELATIVE;
+    TOP:-460PX;
+    LEFT:-70PX;
+    text-align: center;
+    color: BLACK;
+}
+#IMG5{
+    width: 50PX;
+    height: 50PX;
+    position: RELATIVE;
+    TOP:-410PX;
+    LEFT:-200PX;
+}
+#MAIL{
+    position: RELATIVE;
+    top: -450PX;
+    LEFT:-40PX;
+}
+#PASSAGE1{
+    position: RELATIVE;
+    top: -400PX;
+}
+#SKILLS{
+    text-align: center;
+    padding: 10PX;
+    border: 2PX SOLID RED;
+    width: 100PX;
+   position: relative;
+   left: 600PX;
+   top: -350PX;
+   background-color: green;
+}
+#LINE2{
+    position: relative;
+    TOP:-350PX;
+}
+#ACT{
+    position: relative;
+    padding: 10PX;
+    border: 2PX SOLID RED;
+    width: 400PX;
+   position: relative;
+   left: 100PX;
+   top: -300PX;
+   background-color: brown;
+}
+#ACTIVITIES{
+    list-style: none;
+}
+#TECHNICAL{
+    list-style: none;
+}
+#TECH{
+    padding: 10PX;
+    border: 2PX SOLID RED;
+    width: 300PX;
+   position: relative;
+   left: 800PX;
+   top: -530PX;
+   height: 200PX;
+   background-color: brown;
+}
+#CONTACT{
+    text-align: center;
+    padding: 10PX;
+    border: 2PX SOLID RED;
+    width: 100PX;
+   position: relative;
+   left: 600PX;
+   top: -480PX;   
+   background-color: green;
+}
+#LINE3{
+    position: relative;
+    TOP:-480PX;
+}
+#IMG6{
+    width: 70PX;
+    height: 70PX;
+    position: RELATIVE;
+    top: -350PX;
+    left: 400PX;
+}
+#IMG7{
+    width: 70PX;
+    height: 70PX;
+    position: RELATIVE;
+    top: -350PX;
+    left: 600PX;
+}
+#IMG8{
+    width: 70PX;
+    height: 70PX;
+    position: RELATIVE;
+    top: -350PX;
+    left: 800PX;
+}
